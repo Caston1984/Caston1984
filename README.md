@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Caston1984
 - 👀 I’m interested in Reinforcement Learning and other machine learning techniques 
-- 🌱 I’m currently studying for a Masters in Computer Science
+- 🌱 I’m currently studying towards a Masters in Computer Science qualification
 - 💞️ I’m looking to collaborate on Reinforcement machine learning techniques
 - 📫 How to reach me on my email on caston.nyabadza@gmail.com
 
